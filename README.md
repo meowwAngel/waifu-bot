@@ -1,5 +1,6 @@
 # Commands:
 nsfwwaifu - sends an nsfw waifu image from waifu.pics or gif from giphy ;-;
+<br>
 waifu - sends a waifu image from waifu.pics
 
 # how to use
